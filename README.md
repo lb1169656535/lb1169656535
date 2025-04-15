@@ -27,12 +27,13 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lb1169656535&repo=mp4To4K-rust)](https://github.com/lb1169656535/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lb1169656535&repo=KaggleProject)](https://github.com/lb1169656535/KaggleProject)
 <br><br><br>
 
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=lb1169656535&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![lb1169656535's github stats](https://github-readme-stats.vercel.app/api?username=lb1169656535&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lb1169656535&langs_count=6)
