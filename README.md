@@ -7,8 +7,8 @@
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
--   <a href="https://space.bilibili.com/89565664"><code><img height="20" width="20" src="./images/bilibili.png"></code></a> B站：分享技术视频教程
--   <a href="https://blog.csdn.net/weixin_46339668"><code><img height="20" width="20" src="./images/csdn.jpg"></code></a> CSDN：人工智能领域新星创作者
+<a href="https://space.bilibili.com/89565664"><code><img height="20" width="20" src="./images/bilibili.png"></code></a> B站：分享技术视频教程
+<a href="https://blog.csdn.net/weixin_46339668"><code><img height="20" width="20" src="./images/csdn.jpg"></code></a> CSDN：人工智能领域新星创作者
 
 
 
@@ -28,6 +28,8 @@
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lb1169656535&repo=KaggleProject)](https://github.com/lb1169656535/KaggleProject)
+<br><br>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lb1169656535&repo=PolyVocalis)](https://github.com/lb1169656535/PolyVocalis)
 <br><br><br>
 
 ### Github 活跃度
