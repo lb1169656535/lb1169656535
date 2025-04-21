@@ -1,4 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:lb1169656535?theme=rule34">
+<img align="right" src="[https://count.getloli.com/get/@:lb1169656535?theme=rule34](https://count.getloli.com/@lb1169656535?name=lb1169656535&theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)">
+
 
 ## 帅小柏
 
